@@ -1,23 +1,23 @@
 [
     {
         "id": 0,
-        "url": "qingwacangku.com",
+        "url": "https://www.qingwacangku.com",
     },
     {
         "id": 1,
-        "url": "google.com",
+        "url": "https://www.google.com",
     },
     {
         "id": 2,
-        "url": "okta.com",
+        "url": "https://www.okta.com",
     },
     {
         "id": 3,
-        "url": "sequpiacap.com",
+        "url": "https://www.sequpiacap.com",
     },
     {
         "id": 4,
-        "url": "gmail.com",
+        "url": "https://www.gmail.com",
     }
     
 ]
